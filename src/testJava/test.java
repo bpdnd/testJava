@@ -35,7 +35,5 @@ public class test {
 		}
         //随机数
         System.out.println(Math.random());
- 
-        
 	}
 }
