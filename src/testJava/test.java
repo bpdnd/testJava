@@ -1,5 +1,4 @@
 package testJava;
-import java.util.Iterator;
 
 import testJava.Person;
 
